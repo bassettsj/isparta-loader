@@ -1,5 +1,5 @@
 {
-  "name": "isparta-loader",
+  "name": "@bassettsj/isparta-loader",
   "version": "2.0.0",
   "description": "isparta instrumenter loader for webpack",
   "keywords": [
